@@ -80,7 +80,7 @@ nav li a {
     width: 150px;
     padding: 13px 30px;
     font-size: 20px;
-    display: ;
+   
 }
 
 .bn-gtn {
@@ -96,8 +96,7 @@ nav li a {
 
 .pra {
     font-size: 18px;
-    color: color: rgb(99, 98, 98);
-    ;
+    color:  rgb(99, 98, 98);
 }
 
 #img {
@@ -254,6 +253,7 @@ nav li a {
 
 footer input[type="text"] {
     padding: 10px 20px;
+    
 }
 
 footer textarea {
