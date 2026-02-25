@@ -7,7 +7,7 @@ It is a simple portfolio website  made with only:
 - **Raw CSS**
 
 No other  kind of library isn't used here.
-- Live link: <https://kamrul2006.github.io/b11-m01-portfolio/>
+- Live link: <https://kamrul2006.github.io/Web-devololoper>
 
 🔴 It is suitable for large device only.
 
