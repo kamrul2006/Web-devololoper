@@ -13,7 +13,7 @@ No other  kind of library isn't used here.
 
 Thanks
 
-- Kamrul Islam Apurba.
+- Kamrul Islam Apurba. (Author)
 - *<kamrulislamapurba@gmail.com>*
 
 
